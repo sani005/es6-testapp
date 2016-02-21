@@ -1,23 +1,13 @@
 {
-  "name": "es6-tutorial",
+  "name": "es6-testapp",
   "version": "1.0.0",
-  "description": "Start the tutorial [here](http://ccoenraets.github.io/es6-tutorial).",
+  "description": "Learning es6 javascript development",
   "main": "index.js",
   "scripts": {
     "babel": "babel --presets es2015 js/main.js -o build/main.bundle.js",
     "start": "http-server",
     "webpack": "webpack"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ccoenraets/es6-tutorial.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ccoenraets/es6-tutorial/issues"
-  },
-  "homepage": "https://github.com/ccoenraets/es6-tutorial#readme",
   "devDependencies": {
     "babel-cli": "^6.5.1",
     "babel-core": "^6.5.2",
