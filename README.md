@@ -1,2 +1,2 @@
 # es6-testapp
-Learning es6 development. 
+Learning es6 javascript development. 
